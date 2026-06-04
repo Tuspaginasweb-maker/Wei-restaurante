@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 180" role="img" aria-labelledby="title desc">
+  <title id="title">WEI Asian Lounge</title>
+  <desc id="desc">Logotipo de WEI Asian Lounge con rama verde y texto negro.</desc>
+  <rect width="360" height="180" rx="10" fill="#f6f0e5"/>
+  <g fill="#879170" opacity="0.95" transform="translate(180 16)">
+    <path d="M2 96 C-2 65 0 38 10 9" fill="none" stroke="#879170" stroke-width="5" stroke-linecap="round"/>
+    <ellipse cx="-29" cy="64" rx="14" ry="27" transform="rotate(-35 -29 64)"/>
+    <ellipse cx="18" cy="49" rx="15" ry="30" transform="rotate(28 18 49)"/>
+    <ellipse cx="-44" cy="88" rx="13" ry="25" transform="rotate(-72 -44 88)"/>
+    <ellipse cx="43" cy="78" rx="12" ry="26" transform="rotate(54 43 78)"/>
+    <ellipse cx="-7" cy="24" rx="12" ry="23" transform="rotate(-22 -7 24)"/>
+    <circle cx="-27" cy="58" r="4" fill="#6f785c"/>
+    <circle cx="18" cy="42" r="4" fill="#6f785c"/>
+    <circle cx="45" cy="70" r="4" fill="#6f785c"/>
+  </g>
+  <text x="180" y="125" text-anchor="middle" fill="#111311" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="300" letter-spacing="28">WEI</text>
+  <path d="M91 136 C132 130 223 130 265 136" fill="none" stroke="#879170" stroke-width="3" stroke-linecap="round" opacity="0.75"/>
+  <text x="180" y="162" text-anchor="middle" fill="#2b2f2d" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="14">ASIAN LOUNGE</text>
+</svg>
